@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="zjol.com.cn.tab_layout" >
+
+    <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
+    <application>
+
+    </application>
+</manifest>

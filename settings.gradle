@@ -1,0 +1,2 @@
+include ':app',":tab_layout"
+rootProject.name='common-tab-layout'
